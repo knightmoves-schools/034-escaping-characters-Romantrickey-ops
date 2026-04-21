@@ -1,6 +1,5 @@
 let introduction = 'dear Brenda,/n'+
-  it was very /"nice of you/" show up at the party./n" +
-  i hope you injoyed the party and have fun and hope to see you again /'hopefully/'./n/n' +
-  'sincerely,/n' +
+  it was very nice of you to put "/introduction in the beginning of your sentence it was a /"nice touch/" to a start./n" 
+  'sincerely
   'travis scott ://'
 document.getElementById("result").innerHTML = introduction;
